@@ -7,7 +7,7 @@ Our goal is to create something big, beautifully appealing and easy to use for e
 We're better together! If you want to help us shape the future of our website, head over to the `Design-System` repository and take a look at what we've done.
 In case you notice something wrong, create an `Issue` or just leave a comment in our Figma files. 😃
 
-We are commited to accessibility: issues regarding this topic are warmly accepted.
+We are committed to accessibility: issues regarding this topic are warmly accepted.
 
 ## Need help? We're here 👦
 If you have something to ask (which is not regarding the Design System Issues), please reach us at social.usasiago@gmail.com or via our official social media accounts:
