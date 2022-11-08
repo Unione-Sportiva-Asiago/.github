@@ -1,4 +1,4 @@
-# Our palce for everything digitial. Welcome to the Unione Sportiva Asiago's Digital Team page! 👋
+# Our place for _everything digitial_: Welcome to the Unione Sportiva Asiago's Digital Team page! 👋
 Hey there! We are the team behind the website and the Design System of the Unione Sportiva Asiago, an italian ski team with a centenary story at his back, but with a big craving to change the way we use the web to communicate our story (and our goals too!).
 
 Our goal is to create something big, beautifully appealing and easy to use for everyone (and by _everyone_ we mean _EVERYONE_), and that's why we decided to publish as an Open-Source project our Design System. 🎨
