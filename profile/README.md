@@ -10,7 +10,7 @@ In case you notice something wrong, create an `Issue` or just leave a comment in
 We are committed to accessibility: issues regarding this topic are warmly accepted.
 
 ## Need help? We're here 👦
-If you have something to ask (which is not regarding the Design System Issues), please reach us at social.usasiago@gmail.com or via our official social media accounts:
+If you have something to ask (which is not regarding the Design System Issues), please reach us at digitalteam@usasiago.com or via our official social media accounts:
 - [Facebook: Unione Sportiva Asiago](https://facebook.com/unionesportivaasiagosci)
 - [Instagram: @u.s.asiago_sci](https://instagram.com/u.s.asiago_sci)
 - [TikTok: @u.s.asiagosci](https://tiktok.com/@u.s.asiagosci)
